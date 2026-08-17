@@ -1,0 +1,19 @@
+{
+  "name": "pipeline-skills",
+  "owner": {
+    "name": "Grow & Close",
+    "url": "https://growandclose.com"
+  },
+  "metadata": {
+    "description": "Free GTM skills for AI agents, built for founder-led B2B SaaS: positioning, landing pages, outbound, AI-search visibility, sales enablement, customer proof, and GTM measurement",
+    "version": "1.0.0",
+    "repository": "https://github.com/vcxcvii/pipeline-skills"
+  },
+  "plugins": [
+    {
+      "name": "pipeline-skills",
+      "description": "Ten metric-anchored GTM skills organised by the four levers of a pipeline: reach, capture, convert, compound",
+      "source": "./"
+    }
+  ]
+}
