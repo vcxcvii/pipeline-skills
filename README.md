@@ -2,10 +2,9 @@
 
 Free GTM skills for AI agents, built for founder-led B2B SaaS teams.
 
-These are the workflows we actually run on client work at [Grow &
-Close](https://growandclose.com?ref=pipeline-skills): positioning, landing
-pages, outbound, AI-search visibility, sales enablement, customer proof, and
-GTM measurement. They work in Claude Code, Claude Desktop, and any agent that
+These are the GTM workflows I actually run: positioning, landing pages,
+outbound, AI-search visibility, sales enablement, customer proof, and GTM
+measurement. They work in Claude Code, Claude Desktop, and any agent that
 reads the [Agent Skills](https://agentskills.io) format.
 
 Ten skills. No signup, no email gate, MIT licensed.
@@ -109,15 +108,11 @@ deals later, in a room you are not in.
 
 ## Who made this
 
-Built by [Varun Choraria](https://varunchoraria.com?ref=pipeline-skills) at
-[Grow & Close](https://growandclose.com?ref=pipeline-skills), a GTM execution
-studio for founder-led B2B SaaS. We ship one GTM priority end to end, tied to
-one pipeline number.
+Built by [Varun Choraria](https://varunchoraria.com?ref=pipeline-skills).
 
-If a skill gets you most of the way and you want the rest done properly,
-[book a call](https://cal.com/varun-choraria/30min). If it produced something
-wrong or weak, [open an issue](https://github.com/vcxcvii/pipeline-skills/issues)
-with the input and the output. That is the fastest way to make these better.
+If a skill produced something wrong or weak,
+[open an issue](https://github.com/vcxcvii/pipeline-skills/issues) with the
+input and the output. That is the fastest way to make these better.
 
 ## Contributing
 

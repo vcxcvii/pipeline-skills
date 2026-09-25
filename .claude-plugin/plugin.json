@@ -4,9 +4,9 @@
   "description": "Free GTM skills for AI agents, built for founder-led B2B SaaS teams",
   "author": {
     "name": "Varun Choraria",
-    "url": "https://growandclose.com"
+    "url": "https://varunchoraria.com"
   },
-  "homepage": "https://growandclose.com/skills",
+  "homepage": "https://github.com/vcxcvii/pipeline-skills",
   "repository": "https://github.com/vcxcvii/pipeline-skills",
   "license": "MIT",
   "keywords": ["gtm", "b2b-saas", "marketing", "positioning", "outbound", "seo", "aeo", "sales-enablement"]
